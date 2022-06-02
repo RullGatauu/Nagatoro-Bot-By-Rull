@@ -80,9 +80,9 @@ const defaultMenu = {
 
 ╰❑
 
-╭─❑ 「 BOTKINGDOM 」 ❑──
+╭─❑ 「 Nagatoro Bot 」 ❑──
 
-│ https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV
+│ https://urlis.net/Nagatoro
 
 ╰❑
 
@@ -324,7 +324,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
                displayText: '💠 GROUP',
 
-               url: 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
+               url: 'https://urlis.net/Nagatoro'
 
              }
 
@@ -336,7 +336,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
                displayText: 'Owner',
 
-               PhoneNumber: '94'
+               PhoneNumber: '6285859047172'
 
              }
 
@@ -346,7 +346,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
              quickReplyButton: {
 
-               displayText: '🧒 Owner',
+               displayText: '🌙 Owner',
 
                id: '.owner',
 
