@@ -80,15 +80,15 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 
-global.packname = 'BOT KINGDOM'
+global.packname = '𝙽𝙰𝙶𝙰𝚃𝙾𝚁𝙾 𝙱𝙾𝚃'
 
-global.author = '❤️'
+global.author = '𝙽𝙰𝙶𝙰𝚃𝙾𝚁𝙾'
 
-global.wm = 'ＢＯＴ ＫＩＮＧＤＯＭ'
+global.wm = ' 𝙽 𝙰 𝙶 𝙰 𝚃 𝙾 𝚁 𝙾'
 
 global.media = 'https://telegra.ph/file/4475cfb321abebedc758d.jpg'
 
-global.instagram = 'https://instagram.com/supuna808'
+global.instagram = 'https://instagram.com/rullebinaru'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
